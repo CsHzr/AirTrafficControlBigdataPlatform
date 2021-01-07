@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/REC_Decoder/resource/kafka_2.11-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/REC_Decoder/resource/kafka-clients-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/REC_Decoder/resource/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/REC_Decoder/resource/slf4j-nop-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
